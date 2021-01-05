@@ -1,4 +1,4 @@
-## [Welcome to GitHub Pages](https://www.fuli2020.net)
+## [Welcome to GitHub Pages](https://www.baidu.com)
 
 You can use the [editor on GitHub](https://github.com/wenhui173/wenhui173.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
