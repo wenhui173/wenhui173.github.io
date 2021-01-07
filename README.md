@@ -28,12 +28,12 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-#Feature# Test
+### Feature Test
 
-##Test LINK##
+## Test LINK
 [wenhui173.github.io](https://github.com/wenhui173/wenhui173.github.io)
 
-###Test IMG###
+## Test IMG
 ![image](https://github.com/wenhui173/wenhui173.github.io/blob/io-branch/IMG_20200826_175632%20(Large).jpg)
 
 ### Jekyll Themes
