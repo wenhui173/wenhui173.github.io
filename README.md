@@ -34,7 +34,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 [wenhui173.github.io](https://github.com/wenhui173/wenhui173.github.io)
 
 ###Test IMG###
-![image](wenhui173.github.io/IMG_20200826_175632 (Large).jpg)
+![image](https://github.com/wenhui173/wenhui173.github.io/blob/io-branch/IMG_20200826_175632%20(Large).jpg)
 
 ### Jekyll Themes
 
